@@ -1,4 +1,4 @@
-![Image](images\rovers.png)
+![Image](images/rovers.png)
 # Flutter PDF Viewer :boom:
 
 In this application, basically I had used the Flutter Plugin related to the PDF and Files. The name of the different Plugins are as follows:
