@@ -1,7 +1,14 @@
-![Image](images/rovers.jpg)
-# Bottom_Sheets_UI_Flutter :boom:
+![Image](images\rovers.png)
+# Flutter PDF Viewer :boom:
 
-Created Telegram User Interface in Flutter using the **widgets** like ListTile, ListView and different builders like the ListView Builder Seperator and also used the other widgets like CircleAvator, Text widgets for UI etc.
+In this application, basically I had used the Flutter Plugin related to the PDF and Files. The name of the different Plugins are as follows:
+
+1. file_picker: ^1.9.0+1
+2. flutter_full_pdf_viewer: ^1.0.6
+3. flutter_plugin_pdf_viewer: ^1.0.7
+
+Flutter Plugin PDF Viewer, gives us the hands on functionalites to see and scroll through the PDF, so that we can easily access it.
+
 
 
 ### Show some love :heart: and star the repo to support the project
@@ -12,13 +19,12 @@ The Parent Repository of this project can be found on this [link](https://github
 
 # Live Working Project:
 
-[Demo Application](https://irahulcse.github.io/Telegram_Ui_Flutter/)
+[Demo Application](https://irahulcse.github.io/Flutter_PDF_Viewer/#/)
 
 ## Features Needed to Be Added:
 
-* [✅] Live Working Project
-* [✅] Widgets used like ListTile, ListView Builder, Center, Text and Circle Avatar Widgets
-* [❌] Everything is static right now, no API integration done on it.
+* [✅] We had used the plugin like File Picker and Flutter Plugin PDF Viewer
+* [❌] Flutter Web Integeration is not working, because of some dependency problems
 
 ### Created with :heart:
 A a Pre-Final Year Computer Science Student, an experienced Software Developer with a demonstrated history of working in the information technology and services industry. Seasoned Competitive Coder. Skilled in C++, Python, Data Analysis, Java, Dart and Julia. Strong information technology professional with a Bachelor of Engineering - BE focused in Computer Science from Chandigarh University. 
@@ -32,7 +38,7 @@ I am currently looking for Full Time/ Internship Offer for any Software Developm
 
 ### Screenshots and Working GIFS:
 
-<img src="images/rovers.gif" height="300em"  width="250em"/> <img src="images/1.jpg" height="300em" width="250em"/> <img src="images/2.jpg" height="300em" width="250em"/>
+<img src="images/rovers.gif" height="300em"  width="250em"/> <img src="images/1.png" height="300em" width="250em"/> <img src="images/2.png" height="300em" width="250em"/>
 
 
  Sorry for the quality of the GIF :pray:
